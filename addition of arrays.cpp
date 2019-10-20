@@ -29,7 +29,7 @@ main()
    for ( c = 0 ; c < m ; c++ )
    {
       for ( d = 0 ; d < n ; d++ )
-         cout << sum[c][d] << "\t";
+         cout << sum[c][d] + 12345678<< "\t";
 
       cout << endl;
    }
