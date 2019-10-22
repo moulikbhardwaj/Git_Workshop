@@ -1,3 +1,7 @@
 `git init`
+//for initialising git
 `git add .`
+// adding unstaged file
 `git commit -m "commit"`
+// for commiting
+'git push origin master'
